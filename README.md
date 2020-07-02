@@ -1,2 +1,2 @@
 # db-backup
-基于thinkphp-orm 的 数据库 备份、还原库
+基于thinkphp-orm的数据库备份、还原库
