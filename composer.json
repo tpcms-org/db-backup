@@ -1,6 +1,14 @@
 {
     "name": "tpcms/db-backup",
     "description": "基于thinkphp-orm的数据库备份、还原库",
+    "homepage": "http://tpcms.org/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "richerdyoung",
+            "email": "richerdyoung@163.com"
+        }
+    ],
     "type": "library",
     "keywords": [
         "framework",
@@ -11,19 +19,10 @@
         "数据库备份",
         "数据库还原"
     ],
-    "homepage": "http://tpcms.org/",
     "require": {
         "php": ">=7.1.0",
         "topthink/think-orm": "^2.0"
     },
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "richerdyoung",
-            "email": "richerdyoung@163.com"
-        }
-    ],
-    "minimum-stability": "dev",
     "autoload":{
         "psr-4":{ 
             "tpcms\\" :  "src/"
