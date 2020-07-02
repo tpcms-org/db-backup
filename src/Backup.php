@@ -98,30 +98,6 @@ class Backup{
         return Db::connect();
     }
 
-
-
-    /***
-     * (
-            [name] => tpcms_admin
-            [engine] => InnoDB
-            [version] => 10
-            [row_format] => Dynamic
-            [rows] => 2
-            [avg_row_length] => 8192
-            [data_length] => 16384
-            [max_data_length] => 0
-            [index_length] => 16384
-            [data_free] => 0
-            [auto_increment] => 8
-            [create_time] => 2020-03-08 19:20:18
-            [update_time] => 2020-03-16 18:33:39
-            [check_time] => 
-            [collation] => utf8mb4_general_ci
-            [checksum] => 
-            [create_options] => row_format=DYNAMIC
-            [comment] => 
-        )
-     */
     /***
      * 数据库表列表
      */
