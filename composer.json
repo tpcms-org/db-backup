@@ -1,7 +1,7 @@
 {
     "name": "tpcms/db-backup",
     "description": "基于thinkphp-orm的数据库备份、还原库",
-    "homepage": "http://tpcms.org/",
+    "homepage": "http://www.myfind.com/",
     "license": "MIT",
     "authors": [
         {
@@ -21,7 +21,7 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "topthink/think-orm": "^2.0"
+        "topthink/think-orm": "^3.0"
     },
     "autoload":{
         "psr-4":{ 
