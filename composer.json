@@ -14,8 +14,6 @@
         "framework",
         "thinkphp",
         "orm",
-        "tpcms",
-        "cms",
         "数据库备份",
         "数据库还原"
     ],
