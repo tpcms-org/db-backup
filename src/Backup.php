@@ -1,11 +1,6 @@
 <?php
-// +----------------------------------------------------------------------
-// |  website: http://www.tpcms.org
-// |  author:  依然范儿特西
-// |  eamil:   richerdyoung@163.com
-// +----------------------------------------------------------------------
 
-namespace tpcms;
+namespace myfind;
 
 use think\facade\Db;
 use think\facade\Config;
