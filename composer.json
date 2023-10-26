@@ -1,12 +1,12 @@
 {
-    "name": "tpcms/db-backup",
+    "name": "myfind/db-backup",
     "description": "基于thinkphp-orm的数据库备份、还原库",
     "homepage": "http://www.myfind.com/",
     "license": "MIT",
     "authors": [
         {
-            "name": "richerdyoung",
-            "email": "richerdyoung@163.com"
+            "name": "myfind",
+            "email": "364998473@qq.com"
         }
     ],
     "type": "library",
