@@ -1,9 +1,4 @@
 <?php
-// +----------------------------------------------------------------------
-// |  website: http://www.tpcms.org
-// |  author:  依然范儿特西
-// |  eamil:   richerdyoung@163.com
-// +----------------------------------------------------------------------
 
 namespace tpcms;
 
@@ -476,8 +471,6 @@ class Backup{
     {
         $this->config['compress'] ? @gzclose($this->fp) : @fclose($this->fp);
     }
-
-
 
 
 }
